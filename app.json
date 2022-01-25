@@ -1,0 +1,19 @@
+{
+    "name": "arkaplanz",
+    "description": "Arka Plan silici",
+    "keywords": [
+        "arkaplan",
+        "telegram",
+        "bot",
+        "edit",
+        "photo"
+    ],
+    "repository": "https://github.com/twodrk/arkaplan",
+    "stack": "heroku-16",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
